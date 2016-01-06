@@ -1,0 +1,19 @@
+body {
+	/*width: 100%;*/
+}
+
+.title {
+	text-decoration: underline;
+	font-weight: 	 bold;
+}
+
+#gol-cljs {
+	/*
+	width:  50%;
+	height: 50%;	
+	*/
+}
+
+#life-output {
+	max-height: 5em;
+}
