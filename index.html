@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>gol-cljs</title>
+    <link rel="stylesheet" type="text/css" href="gol.css">    
+  </head>
+  <body>
+  	<span class="title">Conway's Game of Life</span>
+  	<div id="instructions">
+		<table>
+			<!--<caption>Controls</caption>-->
+			<tr>
+				<td>Pause:</td><td>Right-Click</td>				
+			</tr>
+			<tr>
+				<td>Change Cell:</td><td>Left-Click</td><td><em>(You'll usually want to be paused; but drag for some nice chaos)</em></td>
+			</tr>
+			<tr>
+				<td>Pan:</td><td>Middle-Click Drag</td><td><em>(Or right-and-left click)</em></td>
+			</tr>
+			<tr>
+				<td>Zoom:</td><td>Mouse Wheel</td>
+			</tr>
+		</table>
+  	</div>
+    <canvas id="gol-cljs"></canvas>
+    <div id="life-output"> </div>
+  </body>
+  <script src="js/main.js"></script>
+</html>
