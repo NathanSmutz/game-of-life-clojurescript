@@ -1,7 +1,7 @@
-# test-js
-
 This is a version of Conway's game of life.
 Written in Clojurescript, using the Quil library for the canvas.
+You can play it here: 
+http://nathansmutz.github.io/game-of-life-clojurescript/
 
 The game of life code is a Clojurescript port and enhancement of Nazarii Bardiuk's 
 Clojure Game of Life described here:
