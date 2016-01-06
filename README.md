@@ -21,7 +21,5 @@ For interactive development run `lein cljsbuild auto` command. This command will
 
 ## License
 
-Copyright © 2015 Nathan Smutz
-
 Distributed under the Eclipse Public License either version 1.0 or (at
 your option) any later version.
