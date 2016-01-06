@@ -1,5 +1,5 @@
 This is a version of Conway's game of life.
-Written in Clojurescript, using the Quil library for the canvas.
+Written in Clojurescript, using the Quil library for the canvas.<br />
 You can play it here: 
 http://nathansmutz.github.io/game-of-life-clojurescript/
 
