@@ -86,7 +86,7 @@
   )
 
 (defn mouse-wheel [state event]
-  "Zooms scene by changing cell size and shift scene to keep the same poin under the cursor"
+  "Zooms scene by changing cell size and shift scene to keep the same point under the cursor"
   (let [w (:cell-size state)
         nw        (max (+ (- event) w) 1)
         mx        (q/mouse-x)
